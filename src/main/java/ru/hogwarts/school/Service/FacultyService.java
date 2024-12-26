@@ -8,9 +8,7 @@ public interface FacultyService {
 
     Faculty addFaculty(Faculty faculty);
 
-
     void removeFaculty(long id);
-
 
     Faculty editFaculty(Faculty faculty);
 

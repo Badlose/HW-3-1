@@ -15,4 +15,5 @@ public interface StudentService {
     Student getStudent(long id);
 
     Collection<Student> getAllStudents();
+
 }
