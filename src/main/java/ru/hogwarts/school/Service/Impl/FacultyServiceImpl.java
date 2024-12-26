@@ -8,6 +8,7 @@ import java.util.Collection;
 
 @Service
 public class FacultyServiceImpl implements FacultyService {
+
     private final FacultyRepository facultyRepository;
 
     public FacultyServiceImpl(FacultyRepository facultyRepository) {
